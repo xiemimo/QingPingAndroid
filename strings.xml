@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">清屏</string>
+    <string name="accessibility_description">在用户授权后检测可访问的广告跳过控件，并记录本地事件。不会读取或上传屏幕截图。</string>
+</resources>
